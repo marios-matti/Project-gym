@@ -1,2 +1,2 @@
 # Project-gym
-Barber Shop template with HTML , CSS, JAVASCRIPT
+gym my template with HTML , CSS, JAVASCRIPT
